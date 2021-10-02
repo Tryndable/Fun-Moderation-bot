@@ -14,7 +14,7 @@ a Fun moderation bot that contains 20+ commands and is made with discord.js v12 
 * Run `node index.js` to ***RUN*** the bot.
 
 #### Features & Info
-* Author: `Tryndable`
+* Author: `Tryndable#7777`
 * Moderation Bot built to manage discord servers.
 * This bot has all the premium commands too. Hackban/forceban [Type of ip ban] is also available
 * Modular Discord bot built entirely on pure JavaScript using Discord.JS.
