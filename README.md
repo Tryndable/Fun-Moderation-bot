@@ -1,2 +1,3 @@
 # Fun-Moderation-bot
-A fun moderation bot 20 commands
+a Fun moderation bot that contains 20+ commands and is made with discord.js
+
