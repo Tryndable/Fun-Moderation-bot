@@ -70,3 +70,4 @@ bot.on('message', async message => {
 
 bot.login(TOKEN);
 
+// made by Tryndable#7777
