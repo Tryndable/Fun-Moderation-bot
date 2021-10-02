@@ -1,5 +1,6 @@
 # Fun-Moderation-bot
-a Fun moderation bot that contains 20+ commands and is made with discord.js v12
+a Fun moderation bot that contains 20+ commands and is made with discord.js v12 you can upgrade to discord v13 
+
 
  <a href="https://discord.gg/uDyJGDpCw3">Join the community</a><br>
   <hr>
